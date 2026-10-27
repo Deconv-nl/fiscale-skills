@@ -1,0 +1,11 @@
+{
+  "name": "deconv",
+  "owner": { "name": "Deconv" },
+  "plugins": [
+    {
+      "name": "fiscale-skills",
+      "source": "./",
+      "description": "Nederlandse fiscale skills: btw, fiscaal onderzoek, correcties, fiscale feiten en verificatie."
+    }
+  ]
+}

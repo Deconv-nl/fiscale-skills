@@ -1,0 +1,7 @@
+{
+  "name": "fiscale-skills",
+  "description": "Nederlandse fiscale skills voor Claude Code: btw, fiscaal onderzoek, correcties, vastgelegde fiscale feiten en onafhankelijke verificatie.",
+  "version": "1.0.0",
+  "author": { "name": "Deconv" },
+  "license": "MIT"
+}
